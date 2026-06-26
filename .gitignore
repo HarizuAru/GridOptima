@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+# We might want to push the data, or not. Since it's synthetic and 4320 rows (small), we can leave it out or keep it.
+# Let's keep it so the repo is complete and runnable out of the box.
+
+# Streamlit
+.streamlit/
